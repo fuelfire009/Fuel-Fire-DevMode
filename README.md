@@ -46,11 +46,11 @@ Key aspects of Fuel Fire include:
    fn record_kill(player: Address);
 2. **Get kills for a player**:
    ```rust
-fn get_kills(player: Address) -> u64;
+   fn get_kills(player: Address) -> u64;
 
 3. **Get last kill for a player**:
    ```rust
-fn get_last_kill_time(player: Address) -> u64;
+   fn get_last_kill_time(player: Address) -> u64;
 
 In-Game Rewards
 
