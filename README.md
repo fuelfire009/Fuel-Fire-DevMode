@@ -36,13 +36,7 @@ Key aspects of Fuel Fire include:
 
 ---
 
-## 🕹️ Game Logic
 
-### Kill Tracker
-
-1. **Record kills for a player:**
-   ```rust
-   fn record_kill(player: Address);
 ## 🕹️ Game Logic
 
 ### Kill Tracker
@@ -50,9 +44,12 @@ Key aspects of Fuel Fire include:
 1. **Record kills for a player**:
    ```rust
    fn record_kill(player: Address);
-
+2. **Get kills for a player**:
+   ```rust
 fn get_kills(player: Address) -> u64;
 
+3. **Get last kill for a player**:
+   ```rust
 fn get_last_kill_time(player: Address) -> u64;
 
 In-Game Rewards
