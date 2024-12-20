@@ -1,0 +1,1 @@
+{"rustc":3590203003937835053,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[15915886554746369499,"build_script_build",false,15087690554358081921]],"local":[{"RerunIfChanged":{"output":"debug/build/fuel-core-client-43071ae813c02d72/output","paths":["./assets/debugAdapterProtocol.json"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
