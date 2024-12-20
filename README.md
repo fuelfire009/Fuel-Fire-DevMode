@@ -1,4 +1,4 @@
-# Fuel-Fire - Smart Contract for Gaming on Fuel Network
+# Fuel-Fire - FPS Gaming on Fuel Network
 
 Fuel Fire is an innovative first-person shooter (FPS) game designed for mobile platforms like Android and iOS, with plans for cross-platform compatibility. The game stands out for its intense, fast-paced gameplay and cutting-edge integration with blockchain technology. Featuring a unique Compete-to-Earn model, Fuel Fire rewards players based on their competitive performance, enabling them to earn real-world value through in-game activities.
 
